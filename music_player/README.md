@@ -123,11 +123,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- SCREENSHOTS -->
 ## Screenshots
 
-Home Page                  |  Home Page               | Home Page               |  Home Page
+Now Playing                  |  Playlist               | Songs              |  Songs
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/YunusEmreAlps/Flutter_Music_Player/blob/master/music_player/ss/1.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Music_Player/blob/master/music_player/ss/2.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Music_Player/blob/master/music_player/ss/3.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Music_Player/blob/master/music_player/ss/4.png?raw=true)|
 
-Home Page            |  Home Page              | Home Page           | Details Page 
+Artist           |  Album              | Genres           | Search Page 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/YunusEmreAlps/Flutter_Music_Player/blob/master/music_player/ss/5.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Music_Player/blob/master/music_player/ss/6.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Music_Player/blob/master/music_player/ss/7.png?raw=true)|![](https://github.com/YunusEmreAlps/Flutter_Music_Player/blob/master/music_player/ss/8.png?raw=true)|
 
